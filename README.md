@@ -107,5 +107,5 @@ This framework advances secure, efficient microservice deployment for on-premise
 
 ---
 
-**For questions or contributions, contact:** md._hazrat.ali@smail.th-koeln.de
+**For questions or contributions, contact:** mdhazrat.thkoeln.it@gmail.com
 
