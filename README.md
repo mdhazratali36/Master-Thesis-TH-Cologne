@@ -1,6 +1,6 @@
 # Master-Thesis-TH-Cologne:
  
-# Comprehensive Study of a Security Testing Framework for Cloud-Native Real-Time Applications Using Local GitLab CI/CD on Bare-Metal Kubernetes.
+# Implementation and Comparative Evaluation of a Security Testing Framework for Cloud-Native Industrial Microservices in Bare-Metal Kubernetes Environments.
 
 ## Overview
 
